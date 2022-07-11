@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "[CSS]": {
+      "editor.suggest.insertMode": "insert"
+    }
+    "[JAVASCRIPT]": {
+      "editor.suggest.insertMode": "insert"
+    }  
+    "[HTML]": {
+      "editor.suggest.insertMode": "insert"
+    }  
+    "[SCSS]": {
+      "editor.suggest.insertMode": "insert"
+    }  
+    "[jsonc]": {
+      "editor.suggest.insertMode": "insert"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "tanhakabir.node-js-education-extension-pack",
+    "idered.npm",
+    "afractal.node-essentials",
+    "swellaby.node-pack",
+    "bhshawon.node-json-autocomplete",
+    "wscats.delete-node-modules",
+    "rubenconde.nodejs-backend-extension-pack",
+    "qiaojienode.vscode-plugin-link-list",
+    "christian-kohler.npm-intellisense"
+  ]
+}

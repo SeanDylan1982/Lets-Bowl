@@ -1,0 +1,18 @@
+{
+  "[less]": {
+    "editor.suggest.insertMode": "insert"
+  },
+  "[scss]": {
+    "editor.suggest.insertMode": "insert"
+  },
+  "[html]": {
+    "editor.suggest.insertMode": "insert"
+  },
+  "[css]": {
+    "editor.suggest.insertMode": "insert"
+  },
+  "[jsonc]": {
+    "editor.suggest.insertMode": "insert"
+  },
+  "npm.oldKeybindings.enable": true
+}
